@@ -1,2 +1,5 @@
-aclv2
+main
+*.dat
 *.o
+
+tests/

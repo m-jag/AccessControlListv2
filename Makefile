@@ -2,7 +2,7 @@ CXX = g++
 CPPFLAGS = -Wall -pthread
 INCLUDE_DIR = include
 SRC_DIR = src
-TARGET = aclv2
+TARGET = main
 
 ifdef DEBUG
 CPPFLAGS += -g -DDEBUG
